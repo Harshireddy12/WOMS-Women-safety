@@ -1,1 +1,2 @@
 # WOMS-Women-safety
+The Women's Safety Application (WomS) is a comprehensive mobile application designed to enhance the safety and security of women in various environments. This app aims to provide women with tools and resources that empower them to take control of their safety and respond effectively to potentially dangerous situations. WomS leverages modern technology to create a safer environment for women, offering features that can be accessed easily through their smartphones.
